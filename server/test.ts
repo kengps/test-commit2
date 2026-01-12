@@ -27,3 +27,9 @@ let Noti4: note = {
   description: "ราคาน้ำมัน4",
   count: 1,
 };
+
+let Noti5: note = {
+  name: "แจ้งเตือน",
+  description: "ราคาน้ำมัน5",
+  count: 1,
+};
