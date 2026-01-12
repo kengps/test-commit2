@@ -17,9 +17,9 @@ let Noti2: note = {
 };
 
 let Noti3: note = {
-  name: "แจ้งเตือน2",
-  description: "ราคาน้ำมัน2",
-  count: "390",
+  name: "แจ้งเตือน3",
+  description: "ราคาน้ำมัน3",
+  count: 390,
 };
 
 let Noti4: note = {
