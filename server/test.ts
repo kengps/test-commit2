@@ -5,7 +5,7 @@ interface note {
 }
 
 
-let Noti:note {
+let Noti:note ={
     name: "แจ้งเตือน",
     description: "ราคาน้ำมัน",
     count: 30
