@@ -10,3 +10,9 @@ let Noti:note {
     description: "ราคาน้ำมัน",
     count: 30
 }
+
+let Noti2:note ={
+    name: "แจ้งเตือน2",
+    description: "ราคาน้ำมัน2",
+    count: 390
+}
